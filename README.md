@@ -1,2 +1,0 @@
-# natwest
-natwest code
